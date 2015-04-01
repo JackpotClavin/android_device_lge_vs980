@@ -31,5 +31,8 @@
         <item>"supl"</item>
     </string-array>
 
+    <!-- Flag specifying whether VoLTE is available on device -->
+    <bool name="config_device_volte_available">true</bool>
+
 
 </resources>
